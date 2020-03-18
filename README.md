@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies:
+
+"react-leaflet": "^2.6.3"
+"node-sass": "^4.13.1"
+"socket.io-client": "^2.3.0"
+
 ## Available Scripts
 
 In the project directory, you can run:
